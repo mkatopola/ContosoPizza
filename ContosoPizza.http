@@ -16,8 +16,8 @@ POST {{ContosoPizza_HostAddress}}/pizza/
 Content-Type: application/json
 
 {
-    "name": "Hawaii",
-    "isGlutenFree": false
+    "name": "BBQ Chicken",
+    "isGlutenFree": true
 }
 
 ###
